@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PerfectCare Access</string>
+    <string name="app_tagline">Secure Medical &amp; Clinical Utility Portal</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="upload_file">Upload File</string>
+    <string name="no_internet_title">No Internet Connection</string>
+    <string name="no_internet_message">Please check your internet connection to use the app.</string>
+    <string name="try_again">Try Again</string>
+    <string name="camera_permission_title">Camera Permission Needed</string>
+    <string name="camera_permission_message">Camera access is required to capture photos and clinical documents. Please grant permission to continue.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="captured_image_title">Captured Photo Preview</string>
+    <string name="selected_file_title">Selected File Details</string>
+    <string name="no_image_captured">No image captured yet</string>
+    <string name="no_file_selected">No file selected yet</string>
+    <string name="retake_photo">Retake Photo</string>
+    <string name="choose_another_file">Select Another File</string>
+    <string name="network_status_online">Connected to Internet</string>
+    <string name="network_status_offline">Offline - Connection Required</string>
+    <string name="system_online_badge">Online</string>
+    <string name="system_offline_badge">Offline</string>
+</resources>
+

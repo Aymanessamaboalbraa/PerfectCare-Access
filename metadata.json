@@ -1,0 +1,7 @@
+{
+  "name": "PerfectCare Access",
+  "description": "Native Android utility application with camera preview capture, document/image file upload picker, and real-time network connectivity monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
